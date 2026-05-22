@@ -21,3 +21,6 @@
 
 ## 执行
 * python3 KodiBatchWatched.py
+
+## 截图
+![截图](1.png)
